@@ -1,0 +1,67 @@
+.a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(https://upload.wikimedia.org/wikipedia/commons/a/a7/Atlantic_near_Faroe_Islands.jpg) no-repeat;
+    width: 100vw;
+    height: 100vh;
+position: relative;
+  }
+  .b{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(https://masterpiecer-images.s3.yandex.net/0fa3c509292511ee8b1b1282c0ba7723:upscaled) no-repeat;
+    width: 50vw;
+    height: 80vh;
+    position: relative;
+    left: 50px;
+    top: 25px;
+  }
+  .c{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+        height: 500px;
+    width: 400px;
+    background : url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Everest_kalapatthar.jpg/682px-Everest_kalapatthar.jpg    );
+    position: absolute;
+    left: 700px;
+  } 
+  .f{
+    position: relative;
+    right: 300px;
+    bottom: 150px;
+  }
+  h1{
+    color: rgba(43, 35, 63, 0.534);
+  }
+  h3{
+    color: rgba(43, 35, 63, 0.534);
+  }
+.g{
+    background-color: rgba(255, 255, 255, 0.466);
+    border-radius: 20px;
+    height: 30px;
+    width: 300px;
+}
+#bb{
+    background-color: rgb(50, 50, 245);
+}
+#a{
+    opacity: 0.3;
+}
+img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
+a{
+    color: rgb(10, 51, 10);
+}
+.o{
+text-decoration:underline;
+}
+i{
+    font-size: xx-large;
+}
